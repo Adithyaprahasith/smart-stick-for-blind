@@ -1,1 +1,1 @@
-# smart-stick-for-blind
+# smart-stick-for-blind using raspberry pi
